@@ -1,20 +1,20 @@
 <p align="center">
   <pre>
-         `..``
-       `.-:+/-`
-      `.:++++/:`
-     ``-/+++/-`
-    ```-++++/:`
-   ````-+++/-``
-  ``````.::.````
-  `-/+oooooo+/-`
- .+oooooooooooo+.
- :oooooooooooooo/
- :oooooooooooooo/
- .+oooooooooooo+.
-  .:+oooooooo+/-.
-     .:++++/-.
-  ```````````````
+             /\
+            (  )
+           (    )
+          (      )
+         (  ⛟   )
+          (    )
+           (  )
+            ()
+             █
+             █
+             █
+             █
+             █
+             █
+           █████
   </pre>
 </p>
 
@@ -39,16 +39,12 @@ status:
   - never gonna give you up
 ```
 
-<br>
-
 ```yaml
 project:
   name: Atlas
   url: https://github.com/schizo16/daily-dashboard
   desc: personal hub — ai, movies, games, radio, music, tools
 ```
-
-<br>
 
 <p align="center">
   <sub><code>may the flame guide thee</code></sub>
