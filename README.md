@@ -1,4 +1,24 @@
 <p align="center">
+  <pre>
+         `..``
+       `.-:+/-`
+      `.:++++/:`
+     ``-/+++/-`
+    ```-++++/:`
+   ````-+++/-``
+  ``````.::.````
+  `-/+oooooo+/-`
+ .+oooooooooooo+.
+ :oooooooooooooo/
+ :oooooooooooooo/
+ .+oooooooooooo+.
+  .:+oooooooo+/-.
+     .:++++/-.
+  ```````````````
+  </pre>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=700&size=28&duration=3000&pause=500&color=A67C52&center=true&vCenter=true&width=200&lines=schizo16" alt="name">
 </p>
 
@@ -8,23 +28,28 @@
 
 ```yaml
 player: schizo16
-location: "Lands Between"
+location: Limgrave
 class: Wretch
 stats:
-  ai: 99
-  code: 99
-  chaos: 99
-status: kindling the flame
+  intelligence: 99
+  faith: 99
+  arcane: 99
+status:
+  - kindling the flame
+  - never gonna give you up
+```
+
+<br>
+
+```yaml
+project:
+  name: Atlas
+  url: https://github.com/schizo16/daily-dashboard
+  desc: personal hub — ai, movies, games, radio, music, tools
 ```
 
 <br>
 
 <p align="center">
-  <a href="https://github.com/schizo16/daily-dashboard"><code>⟶ atlas — personal hub</code></a>
-</p>
-
-<br>
-
-<p align="center">
-  <sub><code>kindle the flame</code></sub>
+  <sub><code>may the flame guide thee</code></sub>
 </p>
