@@ -20,28 +20,11 @@ status: kindling the flame
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=schizo16&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0a&title_color=a67c52&icon_color=a67c52&text_color=d4c5a9" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=schizo16&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0a&title_color=a67c52&text_color=d4c5a9" height="150">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=schizo16&theme=onedark&no-frame=true&row=1&column=6&margin-w=8&no-bg=true">
-</p>
-
-<br>
-
-```
-> project
-```
-
-<p align="center">
-  <a href="https://github.com/schizo16/daily-dashboard"><code>atlas — personal hub</code></a>
+  <a href="https://github.com/schizo16/daily-dashboard"><code>⟶ atlas — personal hub</code></a>
 </p>
 
 <br>
 
 <p align="center">
   <sub><code>kindle the flame</code></sub>
-  <br>
-  <img src="https://visitcount.itsvg.in/api?id=schizo16&icon=5&color=6">
 </p>
